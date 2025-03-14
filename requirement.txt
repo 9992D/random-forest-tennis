@@ -3,3 +3,6 @@ pandas
 matplotlib
 datetime
 tqdm
+xgboost
+scikit-learn
+DecisionTree
