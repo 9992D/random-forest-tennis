@@ -80,7 +80,6 @@ def import_atp_data_to_sqlite(db_path="data/SQLite/tennis.db", table_name="atp_m
     final_data["H2H_SURFACE_DIFF"] = total_h2h_surface
 
     # 5) Calculate the number of matches played and the difference in counts
-    # Calculate Number of games played
     matches_played = defaultdict(int)
     player_w_matches = []
     player_l_matches = []
@@ -202,7 +201,6 @@ def import_atp_data_to_sqlite(db_path="data/SQLite/tennis.db", table_name="atp_m
         final_data["P_1ST_WON_LAST_"+str(k)+"_DIFF"] = p_1stWon_k
         final_data["P_2ND_WON_LAST_"+str(k)+"_DIFF"] = p_2ndWon_k
         final_data["P_BP_SAVED_LAST_"+str(k)+"_DIFF"] = p_bpSaved_k
-
 
     # 8) Calculate overall ELO differences and surface-specific ELO differences
     # Calculate ELO Tennis
