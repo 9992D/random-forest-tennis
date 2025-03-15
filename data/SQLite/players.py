@@ -56,7 +56,7 @@ def compute_final_player_stats(df, player_ids):
         metrics_list = []
         player_matches = df[(df['winner_id'] == pid) | (df['loser_id'] == pid)].copy()
         if player_matches.empty:
-            cols = ['player_id', 'n_games'] + [f"{m}_last_{k}" for k in [3,5,10,25,50,100] 
+            cols = ['player_id', 'n_games'] + [f"{m}_last_{k}" for k in [3, 5, 10, 20, 50, 100, 200, 300, 2000] 
                         for m in ['p_ace', 'p_df', 'p_1stIn', 'p_1stWon', 'p_2ndWon', 'p_bpSaved']]
             return pd.DataFrame(columns=cols)
         player_matches['tourney_date'] = player_matches['tourney_date'].astype('int64')
@@ -87,7 +87,7 @@ def compute_final_player_stats(df, player_ids):
                 'p_2ndWon': p_2ndWon,
                 'p_bpSaved': p_bpSaved
             })
-        windows = [3, 5, 10, 25, 50, 100]
+        windows = [3, 5, 10, 20, 50, 100, 200, 300, 2000]
         stats = {'player_id': pid, 'n_games': n_games}
         for k in windows:
             window_metrics = metrics_list[:k]
