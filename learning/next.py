@@ -107,5 +107,3 @@ def add_matches(player1_id, player2_id, atp_point_diff, atp_rank_diff, best_of, 
         writer.writerow(row_data)
     
     conn.close()
-
-add_matches(208029, 209950, -1080, 7, 3, 128, -8, -0.1, -1, -1)
