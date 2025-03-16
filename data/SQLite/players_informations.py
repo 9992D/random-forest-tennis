@@ -60,10 +60,10 @@ def create_players_table(csv_file, db_file):
     )
     ''')
 
-    df.to_sql('players_informations', conn, if_exists='append', index=False)
+    df.to_sql('players(w)_informations', conn, if_exists='append', index=False)
 
     conn.commit()
     conn.close()
 
 if __name__ == '__main__':
-    create_players_table('data/CSV/atp_players.csv', 'data/SQLite/tennis.db')
+    create_players_table('data/CSV/WTA/wta_players.csv', 'data/SQLite/tennis.db')

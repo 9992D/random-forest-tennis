@@ -4,10 +4,10 @@ import pandas as pd
 from tqdm import tqdm
 import sqlite3
 
-def load_and_clean_atp_matches(start_year=1991, end_year=2024, csv_folder="./data/CSV/"):
-    all_data = pd.read_csv(f"{csv_folder}atp_matches_{start_year}.csv")
+def load_and_clean_atp_matches(start_year=1991, end_year=2024, csv_folder="./data/CSV/WTA/"):
+    all_data = pd.read_csv(f"{csv_folder}wta_matches_{start_year}.csv")
     for year in range(start_year + 1, end_year + 1):
-        file_path = f"{csv_folder}atp_matches_{year}.csv"
+        file_path = f"{csv_folder}wta_matches_{year}.csv"
         year_data = pd.read_csv(file_path)
         all_data = pd.concat([all_data, year_data], axis=0)
     critical_columns = [
@@ -184,7 +184,7 @@ def compute_final_player_stats(df, player_ids):
 def player_ids_from_sqlite(db_path):
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
-    cursor.execute("SELECT player_id FROM players_informations")
+    cursor.execute("SELECT player_id FROM 'players(w)_informations'")
     player_ids = [row[0] for row in cursor.fetchall()]
     conn.close()
     return player_ids
@@ -193,5 +193,5 @@ matches_df = load_and_clean_atp_matches()
 external_player_ids = player_ids_from_sqlite("data/SQLite/tennis.db")
 final_player_stats = compute_final_player_stats(matches_df, player_ids=external_player_ids)
 conn = sqlite3.connect("data/SQLite/tennis.db")
-final_player_stats.to_sql("players_stats", conn, if_exists="replace", index=False)
+final_player_stats.to_sql("players(w)_stats", conn, if_exists="replace", index=False)
 conn.close()

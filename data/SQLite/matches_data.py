@@ -4,7 +4,7 @@ from collections import defaultdict, deque
 from tqdm import tqdm
 import sqlite3
 
-def import_atp_data_to_sqlite(db_path="data/SQLite/tennis.db", table_name="atp_matches"):
+def import_atp_data_to_sqlite(db_path="data/SQLite/tennis.db", table_name="wta_matches"):
     """
     This function reads ATP match CSV files (named 'atp_matches_YYYY.csv' for years 1991 to 2024),
     processes and enriches the data through several steps, and then inserts the final dataset into a SQLite database.
@@ -26,9 +26,9 @@ def import_atp_data_to_sqlite(db_path="data/SQLite/tennis.db", table_name="atp_m
     """
 
     # 1) Concatenate CSV files for years 1991 to 2024
-    all_data = pd.read_csv("./data/CSV/atp_matches_1991.csv")
+    all_data = pd.read_csv("./data/CSV/WTA/wta_matches_1991.csv")
     for year in range(1992, 2025):
-        file = "./data/CSV/atp_matches_" + str(year) + ".csv"
+        file = "./data/CSV/WTA/wta_matches_" + str(year) + ".csv"
         year_data = pd.read_csv(file)
         all_data = pd.concat([all_data, year_data], axis=0)
 
