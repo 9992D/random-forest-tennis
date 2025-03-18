@@ -5,19 +5,29 @@ from tqdm import tqdm
 import sqlite3
 
 def load_and_clean_atp_matches(start_year=1991, end_year=2024, csv_folder="./data/CSV/WTA/"):
-    all_data = pd.read_csv(f"{csv_folder}wta_matches_{start_year}.csv")
-    for year in range(start_year + 1, end_year + 1):
+    dfs = []
+    for year in range(start_year, end_year + 1):
         file_path = f"{csv_folder}wta_matches_{year}.csv"
-        year_data = pd.read_csv(file_path)
-        all_data = pd.concat([all_data, year_data], axis=0)
-    critical_columns = [
-        'winner_id', 'loser_id', 'winner_ht', 'loser_ht', 'winner_age', 'loser_age',
-        "w_ace", "w_df", "w_svpt", "w_1stIn", "w_1stWon", "w_2ndWon", "w_SvGms", "w_bpSaved", "w_bpFaced",
-        "l_ace", "l_df", "l_svpt", "l_1stIn", "l_1stWon", "l_2ndWon", "l_SvGms", "l_bpSaved", "l_bpFaced",
-        'winner_rank_points', 'loser_rank_points', 'winner_rank', 'loser_rank', "surface",
-        'tourney_date'
-    ]
-    all_data_filtered = all_data.dropna(subset=critical_columns).reset_index(drop=True)
+        year_data = pd.read_csv(file_path, low_memory=False)
+
+        numeric_cols = [
+            "w_ace", "w_df", "w_svpt", "w_1stIn", "w_1stWon", "w_2ndWon", "w_SvGms", "w_bpSaved", "w_bpFaced",
+            "l_ace", "l_df", "l_svpt", "l_1stIn", "l_1stWon", "l_2ndWon", "l_SvGms", "l_bpSaved", "l_bpFaced",
+        ]
+
+        for col in numeric_cols:
+            year_data[col] = pd.to_numeric(year_data[col], errors='coerce')
+
+        all_cols = [
+            'winner_id', 'loser_id', 'w_ace', 'w_df', 'w_svpt', 'w_1stIn', 'w_1stWon', 'w_2ndWon', 'w_SvGms', 'w_bpSaved', 'w_bpFaced',
+            'l_ace', 'l_df', 'l_svpt', 'l_1stIn', 'l_1stWon', 'l_2ndWon', 'l_SvGms', 'l_bpSaved', 'l_bpFaced',
+            'surface'
+        ]
+
+        year_data = year_data.dropna(subset=all_cols)
+        dfs.append(year_data)
+
+    all_data_filtered = pd.concat(dfs, ignore_index=True)
     return all_data_filtered
 
 def compute_final_player_stats(df, player_ids):
@@ -50,7 +60,7 @@ def compute_final_player_stats(df, player_ids):
     
     def compute_player_performance_for_player(pid, df):
         def safe_mean(values):
-            valid = [v for v in values if v is not None]
+            valid = [v for v in values if pd.notna(v)]
             return sum(valid) / len(valid) if valid else 50.0
 
         metrics_list = []
@@ -191,6 +201,7 @@ def player_ids_from_sqlite(db_path):
 
 matches_df = load_and_clean_atp_matches()
 external_player_ids = player_ids_from_sqlite("data/SQLite/tennis.db")
+print("Nombre de joueurs externes chargés :", len(external_player_ids))
 final_player_stats = compute_final_player_stats(matches_df, player_ids=external_player_ids)
 conn = sqlite3.connect("data/SQLite/tennis.db")
 final_player_stats.to_sql("players(w)_stats", conn, if_exists="replace", index=False)

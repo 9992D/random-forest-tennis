@@ -1,0 +1,354 @@
+date,tournament,round,player1_firstname,player1_lastname,player2_firstname,player2_lastname,category,URL
+2025-03-16,Indian Wells Masters,F,Holger,Rune,Jack,Draper,ATP,20250316-M-Indian_Wells_Masters-F-Holger_Rune-Jack_Draper.html
+2025-03-15,Indian Wells Masters,SF,Jack,Draper,Carlos,Alcaraz,ATP,20250315-M-Indian_Wells_Masters-SF-Jack_Draper-Carlos_Alcaraz.html
+2025-03-13,Indian Wells Masters,QF,Carlos,Alcaraz,Francisco,Cerundolo,ATP,20250313-M-Indian_Wells_Masters-QF-Carlos_Alcaraz-Francisco_Cerundolo.html
+2025-03-13,Indian Wells Masters,QF,Arthur,Fils,Daniil,Medvedev,ATP,20250313-M-Indian_Wells_Masters-QF-Arthur_Fils-Daniil_Medvedev.html
+2025-03-12,Indian Wells Masters,R16,Taylor,Fritz,Jack,Draper,ATP,20250312-M-Indian_Wells_Masters-R16-Taylor_Fritz-Jack_Draper.html
+2025-03-12,Indian Wells Masters,R16,Grigor,Dimitrov,Carlos,Alcaraz,ATP,20250312-M-Indian_Wells_Masters-R16-Grigor_Dimitrov-Carlos_Alcaraz.html
+2025-03-11,Indian Wells Masters,R16,Yosuke,Watanuki,Tallon,Griekspoor,ATP,20250311-M-Indian_Wells_Masters-R16-Yosuke_Watanuki-Tallon_Griekspoor.html
+2025-03-11,Indian Wells Masters,R16,Stefanos,Tsitsipas,Holger,Rune,ATP,20250311-M-Indian_Wells_Masters-R16-Stefanos_Tsitsipas-Holger_Rune.html
+2025-03-10,Indian Wells Masters,R32,Hubert,Hurkacz,Alex De,Minaur,ATP,20250310-M-Indian_Wells_Masters-R32-Hubert_Hurkacz-Alex_De_Minaur.html
+2025-03-10,Indian Wells Masters,R32,Francisco,Cerundolo,Botic Van De,Zandschulp,ATP,20250310-M-Indian_Wells_Masters-R32-Francisco_Cerundolo-Botic_Van_De_Zandschulp.html
+2025-03-10,Indian Wells Masters,R32,Denis,Shapovalov,Carlos,Alcaraz,ATP,20250310-M-Indian_Wells_Masters-R32-Denis_Shapovalov-Carlos_Alcaraz.html
+2025-03-09,Indian Wells Masters,R32,Yosuke,Watanuki,Frances,Tiafoe,ATP,20250309-M-Indian_Wells_Masters-R32-Yosuke_Watanuki-Frances_Tiafoe.html
+2025-03-09,Indian Wells Masters,R32,Giovanni Mpetshi,Perricard,Tallon,Griekspoor,ATP,20250309-M-Indian_Wells_Masters-R32-Giovanni_Mpetshi_Perricard-Tallon_Griekspoor.html
+2025-03-09,Indian Wells Masters,R32,Arthur,Fils,Lorenzo,Musetti,ATP,20250309-M-Indian_Wells_Masters-R32-Arthur_Fils-Lorenzo_Musetti.html
+2025-03-08,Indian Wells Masters,R64,Quentin,Halys,Carlos,Alcaraz,ATP,20250308-M-Indian_Wells_Masters-R64-Quentin_Halys-Carlos_Alcaraz.html
+2025-03-08,Indian Wells Masters,R64,Novak,Djokovic,Botic Van De,Zandschulp,ATP,20250308-M-Indian_Wells_Masters-R64-Novak_Djokovic-Botic_Van_De_Zandschulp.html
+2025-03-08,Indian Wells Masters,R64,Hubert,Hurkacz,Hugo,Gaston,ATP,20250308-M-Indian_Wells_Masters-R64-Hubert_Hurkacz-Hugo_Gaston.html
+2025-03-07,Indian Wells Masters,R64,Tallon,Griekspoor,Alexander,Zverev,ATP,20250307-M-Indian_Wells_Masters-R64-Tallon_Griekspoor-Alexander_Zverev.html
+2025-03-07,Indian Wells Masters,R64,Stefanos,Tsitsipas,Thiago Seyboth,Wild,ATP,20250307-M-Indian_Wells_Masters-R64-Stefanos_Tsitsipas-Thiago_Seyboth_Wild.html
+2025-03-06,Indian Wells Masters,R128,Nick,Kyrgios,Botic Van De,Zandschulp,ATP,20250306-M-Indian_Wells_Masters-R128-Nick_Kyrgios-Botic_Van_De_Zandschulp.html
+2025-03-05,Indian Wells Masters,R128,Tallon,Griekspoor,Miomir,Kecmanovic,ATP,20250305-M-Indian_Wells_Masters-R128-Tallon_Griekspoor-Miomir_Kecmanovic.html
+2025-03-16,Indian Wells,F,Aryna,Sabalenka,Mirra,Andreeva,WTA,20250316-W-Indian_Wells-F-Aryna_Sabalenka-Mirra_Andreeva.html
+2025-03-14,Indian Wells,SF,Iga,Swiatek,Mirra,Andreeva,WTA,20250314-W-Indian_Wells-SF-Iga_Swiatek-Mirra_Andreeva.html
+2025-03-14,Indian Wells,SF,Aryna,Sabalenka,Madison,Keys,WTA,20250314-W-Indian_Wells-SF-Aryna_Sabalenka-Madison_Keys.html
+2025-03-13,Indian Wells,QF,Iga,Swiatek,Qinwen,Zheng,WTA,20250313-W-Indian_Wells-QF-Iga_Swiatek-Qinwen_Zheng.html
+2025-03-13,Indian Wells,QF,Elina,Svitolina,Mirra,Andreeva,WTA,20250313-W-Indian_Wells-QF-Elina_Svitolina-Mirra_Andreeva.html
+2025-03-13,Indian Wells,QF,Belinda,Bencic,Madison,Keys,WTA,20250313-W-Indian_Wells-QF-Belinda_Bencic-Madison_Keys.html
+2025-03-13,Indian Wells,QF,Aryna,Sabalenka,Liudmila,Samsonova,WTA,20250313-W-Indian_Wells-QF-Aryna_Sabalenka-Liudmila_Samsonova.html
+2025-03-12,Indian Wells,R16,Qinwen,Zheng,Marta,Kostyuk,WTA,20250312-W-Indian_Wells-R16-Qinwen_Zheng-Marta_Kostyuk.html
+2025-03-12,Indian Wells,R16,Jasmine,Paolini,Liudmila,Samsonova,WTA,20250312-W-Indian_Wells-R16-Jasmine_Paolini-Liudmila_Samsonova.html
+2025-03-11,Indian Wells,R16,Karolina,Muchova,Iga,Swiatek,WTA,20250311-W-Indian_Wells-R16-Karolina_Muchova-Iga_Swiatek.html
+2025-03-11,Indian Wells,R16,Elena,Rybakina,Mirra,Andreeva,WTA,20250311-W-Indian_Wells-R16-Elena_Rybakina-Mirra_Andreeva.html
+2025-03-10,Indian Wells,R32,Sonay,Kartal,Polina,Kudermetova,WTA,20250310-W-Indian_Wells-R32-Sonay_Kartal-Polina_Kudermetova.html
+2025-03-10,Indian Wells,R32,Diana,Shnaider,Belinda,Bencic,WTA,20250310-W-Indian_Wells-R32-Diana_Shnaider-Belinda_Bencic.html
+2025-03-09,Indian Wells,R32,Marta,Kostyuk,Caroline,Dolehide,WTA,20250309-W-Indian_Wells-R32-Marta_Kostyuk-Caroline_Dolehide.html
+2025-03-09,Indian Wells,R32,Jessica,Pegula,Xin Yu,Wang,WTA,20250309-W-Indian_Wells-R32-Jessica_Pegula-Xin_Yu_Wang.html
+2025-03-09,Indian Wells,R32,Dayana,Yastremska,Iga,Swiatek,WTA,20250309-W-Indian_Wells-R32-Dayana_Yastremska-Iga_Swiatek.html
+2025-03-09,Indian Wells,R32,Clara,Tauson,Mirra,Andreeva,WTA,20250309-W-Indian_Wells-R32-Clara_Tauson-Mirra_Andreeva.html
+2025-03-08,Indian Wells,R64,Qinwen,Zheng,Victoria,Azarenka,WTA,20250308-W-Indian_Wells-R64-Qinwen_Zheng-Victoria_Azarenka.html
+2025-03-08,Indian Wells,R64,Jasmine,Paolini,Iva,Jovic,WTA,20250308-W-Indian_Wells-R64-Jasmine_Paolini-Iva_Jovic.html
+2025-03-08,Indian Wells,R64,Aryna,Sabalenka,Mccartney,Kessler,WTA,20250308-W-Indian_Wells-R64-Aryna_Sabalenka-Mccartney_Kessler.html
+2025-03-08,Indian Wells,R64,Anastasia,Potapova,Madison,Keys,WTA,20250308-W-Indian_Wells-R64-Anastasia_Potapova-Madison_Keys.html
+2025-03-08,Indian Wells,R64,Alycia,Parks,Diana,Shnaider,WTA,20250308-W-Indian_Wells-R64-Alycia_Parks-Diana_Shnaider.html
+2025-03-07,Indian Wells,R64,Varvara,Gracheva,Mirra,Andreeva,WTA,20250307-W-Indian_Wells-R64-Varvara_Gracheva-Mirra_Andreeva.html
+2025-03-07,Indian Wells,R64,Marta,Kostyuk,Robin,Montgomery,WTA,20250307-W-Indian_Wells-R64-Marta_Kostyuk-Robin_Montgomery.html
+2025-03-07,Indian Wells,R64,Magda,Linette,Jessica,Pegula,WTA,20250307-W-Indian_Wells-R64-Magda_Linette-Jessica_Pegula.html
+2025-03-07,Indian Wells,R64,Caroline,Garcia,Iga,Swiatek,WTA,20250307-W-Indian_Wells-R64-Caroline_Garcia-Iga_Swiatek.html
+2025-03-07,Indian Wells,R64,Ashlyn,Krueger,Elina,Svitolina,WTA,20250307-W-Indian_Wells-R64-Ashlyn_Krueger-Elina_Svitolina.html
+2025-03-06,Indian Wells,R128,Anna,Blinkova,Mccartney,Kessler,WTA,20250306-W-Indian_Wells-R128-Anna_Blinkova-Mccartney_Kessler.html
+2025-03-06,Indian Wells,R128,Alycia,Parks,Anna,Kalinskaya,WTA,20250306-W-Indian_Wells-R128-Alycia_Parks-Anna_Kalinskaya.html
+2025-03-05,Indian Wells,R128,Kamilla,Rakhimova,Caroline,Dolehide,WTA,20250305-W-Indian_Wells-R128-Kamilla_Rakhimova-Caroline_Dolehide.html
+2025-03-05,Indian Wells,R128,Jule,Niemeier,Robin,Montgomery,WTA,20250305-W-Indian_Wells-R128-Jule_Niemeier-Robin_Montgomery.html
+2025-03-02,Santiago,F,Sebastian,Baez,Laslo,Djere,ATP,20250302-M-Santiago-F-Sebastian_Baez-Laslo_Djere.html
+2025-03-02,Austin,F,Jessica,Pegula,Mccartney,Kessler,WTA,20250302-W-Austin-F-Jessica_Pegula-Mccartney_Kessler.html
+2025-02-24,Austin,R32,Nuria Parrizas,Diaz,Malaika,Rapolu,WTA,20250224-W-Austin-R32-Nuria_Parrizas_Diaz-Malaika_Rapolu.html
+2025-03-02,Merida,F,Emma,Navarro,Emiliana,Arango,WTA,20250302-W-Merida-F-Emma_Navarro-Emiliana_Arango.html
+2025-03-01,Merida,SF,Emma,Navarro,Elina,Avanesyan,WTA,20250301-W-Merida-SF-Emma_Navarro-Elina_Avanesyan.html
+2025-02-28,Merida,QF,Emma,Navarro,Zeynep,Sonmez,WTA,20250228-W-Merida-QF-Emma_Navarro-Zeynep_Sonmez.html
+2025-02-27,Merida,QF,Elina,Avanesyan,Maya,Joint,WTA,20250227-W-Merida-QF-Elina_Avanesyan-Maya_Joint.html
+2025-02-26,Merida,R16,Paula,Badosa,Jaqueline,Cristian,WTA,20250226-W-Merida-R16-Paula_Badosa-Jaqueline_Cristian.html
+2025-03-01,Dubai,F,Felix Auger,Aliassime,Stefanos,Tsitsipas,ATP,20250301-M-Dubai-F-Felix_Auger_Aliassime-Stefanos_Tsitsipas.html
+2025-02-28,Dubai,SF,Tallon,Griekspoor,Stefanos,Tsitsipas,ATP,20250228-M-Dubai-SF-Tallon_Griekspoor-Stefanos_Tsitsipas.html
+2025-02-27,Dubai,QF,Stefanos,Tsitsipas,Matteo,Berrettini,ATP,20250227-M-Dubai-QF-Stefanos_Tsitsipas-Matteo_Berrettini.html
+2025-02-27,Dubai,QF,Daniil,Medvedev,Tallon,Griekspoor,ATP,20250227-M-Dubai-QF-Daniil_Medvedev-Tallon_Griekspoor.html
+2025-02-26,Dubai,R16,Giovanni Mpetshi,Perricard,Daniil,Medvedev,ATP,20250226-M-Dubai-R16-Giovanni_Mpetshi_Perricard-Daniil_Medvedev.html
+2025-02-25,Dubai,R32,Roman,Safiullin,Tallon,Griekspoor,ATP,20250225-M-Dubai-R32-Roman_Safiullin-Tallon_Griekspoor.html
+2025-02-25,Dubai,R32,Gael,Monfils,Matteo,Berrettini,ATP,20250225-M-Dubai-R32-Gael_Monfils-Matteo_Berrettini.html
+2025-02-24,Dubai,R32,Giovanni Mpetshi,Perricard,Zhizhen,Zhang,ATP,20250224-M-Dubai-R32-Giovanni_Mpetshi_Perricard-Zhizhen_Zhang.html
+2025-02-22,Dubai,F,Clara,Tauson,Mirra,Andreeva,WTA,20250222-W-Dubai-F-Clara_Tauson-Mirra_Andreeva.html
+2025-02-21,Dubai,SF,Karolina,Muchova,Clara,Tauson,WTA,20250221-W-Dubai-SF-Karolina_Muchova-Clara_Tauson.html
+2025-02-21,Dubai,SF,Elena,Rybakina,Mirra,Andreeva,WTA,20250221-W-Dubai-SF-Elena_Rybakina-Mirra_Andreeva.html
+2025-02-20,Dubai,QF,Iga,Swiatek,Mirra,Andreeva,WTA,20250220-W-Dubai-QF-Iga_Swiatek-Mirra_Andreeva.html
+2025-02-20,Dubai,QF,Elena,Rybakina,Sofia,Kenin,WTA,20250220-W-Dubai-QF-Elena_Rybakina-Sofia_Kenin.html
+2025-02-20,Dubai,QF,Clara,Tauson,Linda,Noskova,WTA,20250220-W-Dubai-QF-Clara_Tauson-Linda_Noskova.html
+2025-02-19,Dubai,R32,Mirra,Andreeva,Marketa,Vondrousova,WTA,20250219-W-Dubai-R32-Mirra_Andreeva-Marketa_Vondrousova.html
+2025-02-19,Dubai,R16,Peyton,Stearns,Mirra,Andreeva,WTA,20250219-W-Dubai-R16-Peyton_Stearns-Mirra_Andreeva.html
+2025-02-19,Dubai,R16,Elena,Rybakina,Paula,Badosa,WTA,20250219-W-Dubai-R16-Elena_Rybakina-Paula_Badosa.html
+2025-02-19,Dubai,R16,Aryna,Sabalenka,Clara,Tauson,WTA,20250219-W-Dubai-R16-Aryna_Sabalenka-Clara_Tauson.html
+2025-02-18,Dubai,R32,Marta,Kostyuk,Sofia,Kenin,WTA,20250218-W-Dubai-R32-Marta_Kostyuk-Sofia_Kenin.html
+2025-02-18,Dubai,R32,Jasmine,Paolini,Eva,Lys,WTA,20250218-W-Dubai-R32-Jasmine_Paolini-Eva_Lys.html
+2025-02-18,Dubai,R32,Coco,Gauff,Mccartney,Kessler,WTA,20250218-W-Dubai-R32-Coco_Gauff-Mccartney_Kessler.html
+2025-02-17,Dubai,R64,Elina,Avanesyan,Mirra,Andreeva,WTA,20250217-W-Dubai-R64-Elina_Avanesyan-Mirra_Andreeva.html
+2025-02-16,Dubai,R64,Alycia,Parks,Xin Yu,Wang,WTA,20250216-W-Dubai-R64-Alycia_Parks-Xin_Yu_Wang.html
+2025-03-01,Acapulco,F,Tomas,Machac,Alejandro Davidovich,Fokina,ATP,20250301-M-Acapulco-F-Tomas_Machac-Alejandro_Davidovich_Fokina.html
+2025-02-24,Acapulco,R32,Casper,Ruud,Arthur,Rinderknech,ATP,20250224-M-Acapulco-R32-Casper_Ruud-Arthur_Rinderknech.html
+2025-02-28,Lugano CH,QF,Murphy,Cassone,Luca Van,Assche,ATP,20250228-M-Lugano_CH-QF-Murphy_Cassone-Luca_Van_Assche.html
+2025-02-24,Lugano CH,R32,Mees,Rottgering,Beibit,Zhukayev,ATP,20250224-M-Lugano_CH-R32-Mees_Rottgering-Beibit_Zhukayev.html
+2025-02-23,Glasgow CH,F,Nicolai Budkov,Kjaer,Viktor,Durasovic,ATP,20250223-M-Glasgow_CH-F-Nicolai_Budkov_Kjaer-Viktor_Durasovic.html
+2025-02-23,Rio de Janeiro,F,Alexandre,Muller,Sebastian,Baez,ATP,20250223-M-Rio_de_Janeiro-F-Alexandre_Muller-Sebastian_Baez.html
+2025-02-21,Rio de Janeiro,QF,Francisco,Comesana,Alexander,Zverev,ATP,20250221-M-Rio_de_Janeiro-QF-Francisco_Comesana-Alexander_Zverev.html
+2025-02-22,Doha,F,Andrey,Rublev,Jack,Draper,ATP,20250222-M-Doha-F-Andrey_Rublev-Jack_Draper.html
+2025-02-20,Doha,QF,Jiri,Lehecka,Carlos,Alcaraz,ATP,20250220-M-Doha-QF-Jiri_Lehecka-Carlos_Alcaraz.html
+2025-02-20,Doha,QF,Jack,Draper,Matteo,Berrettini,ATP,20250220-M-Doha-QF-Jack_Draper-Matteo_Berrettini.html
+2025-02-20,Doha,QF,Andrey,Rublev,Alex De,Minaur,ATP,20250220-M-Doha-QF-Andrey_Rublev-Alex_De_Minaur.html
+2025-02-19,Doha,R16,Zizou,Bergs,Daniil,Medvedev,ATP,20250219-M-Doha-R16-Zizou_Bergs-Daniil_Medvedev.html
+2025-02-19,Doha,R16,Tallon,Griekspoor,Matteo,Berrettini,ATP,20250219-M-Doha-R16-Tallon_Griekspoor-Matteo_Berrettini.html
+2025-02-19,Doha,R16,Fabian,Marozsan,Jiri,Lehecka,ATP,20250219-M-Doha-R16-Fabian_Marozsan-Jiri_Lehecka.html
+2025-02-19,Doha,R16,Botic Van De,Zandschulp,Alex De,Minaur,ATP,20250219-M-Doha-R16-Botic_Van_De_Zandschulp-Alex_De_Minaur.html
+2025-02-19,Doha,R16,Andrey,Rublev,Nuno,Borges,ATP,20250219-M-Doha-R16-Andrey_Rublev-Nuno_Borges.html
+2025-02-18,Doha,R32,Stefanos,Tsitsipas,Hamad,Medjedovic,ATP,20250218-M-Doha-R32-Stefanos_Tsitsipas-Hamad_Medjedovic.html
+2025-02-18,Doha,R32,Novak,Djokovic,Matteo,Berrettini,ATP,20250218-M-Doha-R32-Novak_Djokovic-Matteo_Berrettini.html
+2025-02-18,Doha,R32,Andrey,Rublev,Alexander,Bublik,ATP,20250218-M-Doha-R32-Andrey_Rublev-Alexander_Bublik.html
+2025-02-17,Doha,R32,Marin,Cilic,Carlos,Alcaraz,ATP,20250217-M-Doha-R32-Marin_Cilic-Carlos_Alcaraz.html
+2025-02-15,Doha,F,Jelena,Ostapenko,Amanda,Anisimova,WTA,20250215-W-Doha-F-Jelena_Ostapenko-Amanda_Anisimova.html
+2025-02-14,Doha,SF,Iga,Swiatek,Jelena,Ostapenko,WTA,20250214-W-Doha-SF-Iga_Swiatek-Jelena_Ostapenko.html
+2025-02-14,Doha,SF,Ekaterina,Alexandrova,Amanda,Anisimova,WTA,20250214-W-Doha-SF-Ekaterina_Alexandrova-Amanda_Anisimova.html
+2025-02-13,Doha,QF,Marta,Kostyuk,Amanda,Anisimova,WTA,20250213-W-Doha-QF-Marta_Kostyuk-Amanda_Anisimova.html
+2025-02-13,Doha,QF,Iga,Swiatek,Elena,Rybakina,WTA,20250213-W-Doha-QF-Iga_Swiatek-Elena_Rybakina.html
+2025-02-12,Doha,R16,Marta,Kostyuk,Magda,Linette,WTA,20250212-W-Doha-R16-Marta_Kostyuk-Magda_Linette.html
+2025-02-12,Doha,R16,Elena,Rybakina,Rebecca,Sramkova,WTA,20250212-W-Doha-R16-Elena_Rybakina-Rebecca_Sramkova.html
+2025-02-12,Doha,R16,Ekaterina,Alexandrova,Elise,Mertens,WTA,20250212-W-Doha-R16-Ekaterina_Alexandrova-Elise_Mertens.html
+2025-02-12,Doha,R16,Daria,Kasatkina,Jessica,Pegula,WTA,20250212-W-Doha-R16-Daria_Kasatkina-Jessica_Pegula.html
+2025-02-12,Doha,R16,Amanda,Anisimova,Leylah,Fernandez,WTA,20250212-W-Doha-R16-Amanda_Anisimova-Leylah_Fernandez.html
+2025-02-11,Doha,R32,Mirra,Andreeva,Rebecca,Sramkova,WTA,20250211-W-Doha-R32-Mirra_Andreeva-Rebecca_Sramkova.html
+2025-02-11,Doha,R32,Marta,Kostyuk,Coco,Gauff,WTA,20250211-W-Doha-R32-Marta_Kostyuk-Coco_Gauff.html
+2025-02-11,Doha,R32,Magda,Linette,Magdalena,Frech,WTA,20250211-W-Doha-R32-Magda_Linette-Magdalena_Frech.html
+2025-02-11,Doha,R32,Jessica,Pegula,Elina,Svitolina,WTA,20250211-W-Doha-R32-Jessica_Pegula-Elina_Svitolina.html
+2025-02-11,Doha,R32,Elina,Avanesyan,Daria,Kasatkina,WTA,20250211-W-Doha-R32-Elina_Avanesyan-Daria_Kasatkina.html
+2025-02-11,Doha,R32,Elena,Rybakina,Peyton,Stearns,WTA,20250211-W-Doha-R32-Elena_Rybakina-Peyton_Stearns.html
+2025-02-11,Doha,R32,Alycia,Parks,Sofia,Kenin,WTA,20250211-W-Doha-R32-Alycia_Parks-Sofia_Kenin.html
+2025-02-10,Doha,R64,Veronika,Kudermetova,Magda,Linette,WTA,20250210-W-Doha-R64-Veronika_Kudermetova-Magda_Linette.html
+2025-02-10,Doha,R64,Elina,Svitolina,Marketa,Vondrousova,WTA,20250210-W-Doha-R64-Elina_Svitolina-Marketa_Vondrousova.html
+2025-02-10,Doha,R64,Donna,Vekic,Linda,Noskova,WTA,20250210-W-Doha-R64-Donna_Vekic-Linda_Noskova.html
+2025-02-10,Doha,R64,Ashlyn,Krueger,Sofia,Kenin,WTA,20250210-W-Doha-R64-Ashlyn_Krueger-Sofia_Kenin.html
+2025-02-10,Doha,R32,Leylah,Fernandez,Emma,Navarro,WTA,20250210-W-Doha-R32-Leylah_Fernandez-Emma_Navarro.html
+2025-02-10,Doha,R32,Iga,Swiatek,Maria,Sakkari,WTA,20250210-W-Doha-R32-Iga_Swiatek-Maria_Sakkari.html
+2025-02-09,Doha,R64,Mirra,Andreeva,Katie,Volynets,WTA,20250209-W-Doha-R64-Mirra_Andreeva-Katie_Volynets.html
+2025-02-09,Doha,R64,Marta,Kostyuk,Zeynep,Sonmez,WTA,20250209-W-Doha-R64-Marta_Kostyuk-Zeynep_Sonmez.html
+2025-02-09,Doha,R64,Lulu,Sun,Liudmila,Samsonova,WTA,20250209-W-Doha-R64-Lulu_Sun-Liudmila_Samsonova.html
+2025-02-09,Doha,R64,Elina,Avanesyan,Xin Yu,Wang,WTA,20250209-W-Doha-R64-Elina_Avanesyan-Xin_Yu_Wang.html
+2025-02-09,Doha,R64,Ekaterina,Alexandrova,Emma,Raducanu,WTA,20250209-W-Doha-R64-Ekaterina_Alexandrova-Emma_Raducanu.html
+2025-02-09,Doha,R64,Beatriz Haddad,Maia,Magdalena,Frech,WTA,20250209-W-Doha-R64-Beatriz_Haddad_Maia-Magdalena_Frech.html
+2025-02-09,Doha,R64,Amanda,Anisimova,Victoria,Azarenka,WTA,20250209-W-Doha-R64-Amanda_Anisimova-Victoria_Azarenka.html
+2025-02-09,Doha,R64,Alycia,Parks,Diana,Shnaider,WTA,20250209-W-Doha-R64-Alycia_Parks-Diana_Shnaider.html
+2025-02-08,Doha,Q2,Alycia,Parks,Polina,Kudermetova,WTA,20250208-W-Doha-Q2-Alycia_Parks-Polina_Kudermetova.html
+2025-02-18,Brazzaville CH,R32,Kryce Didier Momo,Kassa,Max,Houkes,ATP,20250218-M-Brazzaville_CH-R32-Kryce_Didier_Momo_Kassa-Max_Houkes.html
+2025-02-17,Brazzaville CH,R32,Nicholas Alan Van,Aken,Andrej,Martin,ATP,20250217-M-Brazzaville_CH-R32-Nicholas_Alan_Van_Aken-Andrej_Martin.html
+2025-02-16,Marseille,F,Hamad,Medjedovic,Ugo,Humbert,ATP,20250216-M-Marseille-F-Hamad_Medjedovic-Ugo_Humbert.html
+2025-02-15,Marseille,SF,Ugo,Humbert,Zizou,Bergs,ATP,20250215-M-Marseille-SF-Ugo_Humbert-Zizou_Bergs.html
+2025-02-14,Marseille,QF,Lorenzo,Sonego,Ugo,Humbert,ATP,20250214-M-Marseille-QF-Lorenzo_Sonego-Ugo_Humbert.html
+2025-02-13,Marseille,R16,Pierre Hugues,Herbert,Daniil,Medvedev,ATP,20250213-M-Marseille-R16-Pierre_Hugues_Herbert-Daniil_Medvedev.html
+2025-02-13,Marseille,R16,Hubert,Hurkacz,Zhizhen,Zhang,ATP,20250213-M-Marseille-R16-Hubert_Hurkacz-Zhizhen_Zhang.html
+2025-02-12,Marseille,R16,Alexander,Bublik,Ugo,Humbert,ATP,20250212-M-Marseille-R16-Alexander_Bublik-Ugo_Humbert.html
+2025-02-16,Buenos Aires,F,Francisco,Cerundolo,Joao,Fonseca,ATP,20250216-M-Buenos_Aires-F-Francisco_Cerundolo-Joao_Fonseca.html
+2025-02-15,Buenos Aires,SF,Laslo,Djere,Joao,Fonseca,ATP,20250215-M-Buenos_Aires-SF-Laslo_Djere-Joao_Fonseca.html
+2025-02-14,Buenos Aires,QF,Mariano,Navone,Joao,Fonseca,ATP,20250214-M-Buenos_Aires-QF-Mariano_Navone-Joao_Fonseca.html
+2025-02-13,Buenos Aires,R16,Lorenzo,Musetti,Corentin,Moutet,ATP,20250213-M-Buenos_Aires-R16-Lorenzo_Musetti-Corentin_Moutet.html
+2025-02-13,Buenos Aires,R16,Federico,Coria,Joao,Fonseca,ATP,20250213-M-Buenos_Aires-R16-Federico_Coria-Joao_Fonseca.html
+2025-02-13,Buenos Aires,R16,Diego,Schwartzman,Pedro,Martinez,ATP,20250213-M-Buenos_Aires-R16-Diego_Schwartzman-Pedro_Martinez.html
+2025-02-12,Buenos Aires,R32,Nicolas,Jarry,Diego,Schwartzman,ATP,20250212-M-Buenos_Aires-R32-Nicolas_Jarry-Diego_Schwartzman.html
+2025-02-12,Buenos Aires,R32,Joao,Fonseca,Tomas Martin,Etcheverry,ATP,20250212-M-Buenos_Aires-R32-Joao_Fonseca-Tomas_Martin_Etcheverry.html
+2025-02-12,Buenos Aires,R16,Francisco,Cerundolo,Juan Manuel,Cerundolo,ATP,20250212-M-Buenos_Aires-R16-Francisco_Cerundolo-Juan_Manuel_Cerundolo.html
+2025-02-16,Delray Beach,F,Alejandro Davidovich,Fokina,Miomir,Kecmanovic,ATP,20250216-M-Delray_Beach-F-Alejandro_Davidovich_Fokina-Miomir_Kecmanovic.html
+2025-02-09,Rotterdam,F,Alex De,Minaur,Carlos,Alcaraz,ATP,20250209-M-Rotterdam-F-Alex_De_Minaur-Carlos_Alcaraz.html
+2025-02-08,Rotterdam,SF,Hubert,Hurkacz,Carlos,Alcaraz,ATP,20250208-M-Rotterdam-SF-Hubert_Hurkacz-Carlos_Alcaraz.html
+2025-02-08,Rotterdam,SF,Alex De,Minaur,Mattia,Bellucci,ATP,20250208-M-Rotterdam-SF-Alex_De_Minaur-Mattia_Bellucci.html
+2025-02-07,Rotterdam,QF,Stefanos,Tsitsipas,Mattia,Bellucci,ATP,20250207-M-Rotterdam-QF-Stefanos_Tsitsipas-Mattia_Bellucci.html
+2025-02-07,Rotterdam,QF,Pedro,Martinez,Carlos,Alcaraz,ATP,20250207-M-Rotterdam-QF-Pedro_Martinez-Carlos_Alcaraz.html
+2025-02-07,Rotterdam,QF,Andrey,Rublev,Hubert,Hurkacz,ATP,20250207-M-Rotterdam-QF-Andrey_Rublev-Hubert_Hurkacz.html
+2025-02-06,Rotterdam,R16,Tallon,Griekspoor,Stefanos,Tsitsipas,ATP,20250206-M-Rotterdam-R16-Tallon_Griekspoor-Stefanos_Tsitsipas.html
+2025-02-06,Rotterdam,R16,Jakub,Mensik,Alex De,Minaur,ATP,20250206-M-Rotterdam-R16-Jakub_Mensik-Alex_De_Minaur.html
+2025-02-06,Rotterdam,R16,Andrey,Rublev,Fabian,Marozsan,ATP,20250206-M-Rotterdam-R16-Andrey_Rublev-Fabian_Marozsan.html
+2025-02-06,Rotterdam,R16,Andrea,Vavassori,Carlos,Alcaraz,ATP,20250206-M-Rotterdam-R16-Andrea_Vavassori-Carlos_Alcaraz.html
+2025-02-05,Rotterdam,R32,Tallon,Griekspoor,Matteo,Berrettini,ATP,20250205-M-Rotterdam-R32-Tallon_Griekspoor-Matteo_Berrettini.html
+2025-02-05,Rotterdam,R16,Mattia,Bellucci,Daniil,Medvedev,ATP,20250205-M-Rotterdam-R16-Mattia_Bellucci-Daniil_Medvedev.html
+2025-02-05,Rotterdam,R16,Jiri,Lehecka,Hubert,Hurkacz,ATP,20250205-M-Rotterdam-R16-Jiri_Lehecka-Hubert_Hurkacz.html
+2025-02-04,Rotterdam,R32,Lorenzo,Sonego,Holger,Rune,ATP,20250204-M-Rotterdam-R32-Lorenzo_Sonego-Holger_Rune.html
+2025-02-04,Rotterdam,R32,Carlos,Alcaraz,Botic Van De,Zandschulp,ATP,20250204-M-Rotterdam-R32-Carlos_Alcaraz-Botic_Van_De_Zandschulp.html
+2025-02-04,Rotterdam,R32,Andrey,Rublev,Zhizhen,Zhang,ATP,20250204-M-Rotterdam-R32-Andrey_Rublev-Zhizhen_Zhang.html
+2025-02-03,Rotterdam,R32,Mattia,Bellucci,Mees,Rottgering,ATP,20250203-M-Rotterdam-R32-Mattia_Bellucci-Mees_Rottgering.html
+2025-02-03,Rotterdam,R32,Hubert,Hurkacz,Flavio,Cobolli,ATP,20250203-M-Rotterdam-R32-Hubert_Hurkacz-Flavio_Cobolli.html
+2025-02-03,Rotterdam,R32,Daniil,Medvedev,Stan,Wawrinka,ATP,20250203-M-Rotterdam-R32-Daniil_Medvedev-Stan_Wawrinka.html
+2025-02-09,Mumbai,F,Jil,Teichmann,Mananchaya,Sawangkaew,WTA,20250209-W-Mumbai-F-Jil_Teichmann-Mananchaya_Sawangkaew.html
+2025-02-09,Cluj Napoca,F,Anastasia,Potapova,Lucia,Bronzetti,WTA,20250209-W-Cluj_Napoca-F-Anastasia_Potapova-Lucia_Bronzetti.html
+2025-02-04,Cluj Napoca,R32,Alycia,Parks,Olga,Danilovic,WTA,20250204-W-Cluj_Napoca-R32-Alycia_Parks-Olga_Danilovic.html
+2025-02-09,Dallas,F,Casper,Ruud,Denis,Shapovalov,ATP,20250209-M-Dallas-F-Casper_Ruud-Denis_Shapovalov.html
+2025-02-08,Dallas,SF,Denis,Shapovalov,Tommy,Paul,ATP,20250208-M-Dallas-SF-Denis_Shapovalov-Tommy_Paul.html
+2025-02-08,Dallas,SF,Casper,Ruud,Jaume,Munar,ATP,20250208-M-Dallas-SF-Casper_Ruud-Jaume_Munar.html
+2025-02-07,Dallas,QF,Denis,Shapovalov,Tomas,Machac,ATP,20250207-M-Dallas-QF-Denis_Shapovalov-Tomas_Machac.html
+2025-02-05,Dallas,R32,Taylor,Fritz,Arthur,Rinderknech,ATP,20250205-M-Dallas-R32-Taylor_Fritz-Arthur_Rinderknech.html
+2025-02-08,Abu Dhabi,F,Ashlyn,Krueger,Belinda,Bencic,WTA,20250208-W-Abu_Dhabi-F-Ashlyn_Krueger-Belinda_Bencic.html
+2025-02-07,Abu Dhabi,SF,Elena,Rybakina,Belinda,Bencic,WTA,20250207-W-Abu_Dhabi-SF-Elena_Rybakina-Belinda_Bencic.html
+2025-02-07,Abu Dhabi,SF,Ashlyn,Krueger,Linda,Noskova,WTA,20250207-W-Abu_Dhabi-SF-Ashlyn_Krueger-Linda_Noskova.html
+2025-02-06,Abu Dhabi,QF,Magda,Linette,Linda,Noskova,WTA,20250206-W-Abu_Dhabi-QF-Magda_Linette-Linda_Noskova.html
+2025-02-05,Abu Dhabi,R16,Paula,Badosa,Linda,Noskova,WTA,20250205-W-Abu_Dhabi-R16-Paula_Badosa-Linda_Noskova.html
+2025-02-03,Abu Dhabi,R32,Yue,Yuan,Wakana,Sonobe,WTA,20250203-W-Abu_Dhabi-R32-Yue_Yuan-Wakana_Sonobe.html
+2025-02-02,Linz,F,Ekaterina,Alexandrova,Dayana,Yastremska,WTA,20250202-W-Linz-F-Ekaterina_Alexandrova-Dayana_Yastremska.html
+2025-02-01,Linz,SF,Karolina,Muchova,Ekaterina,Alexandrova,WTA,20250201-W-Linz-SF-Karolina_Muchova-Ekaterina_Alexandrova.html
+2025-01-31,Linz,QF,Clara,Tauson,Anna,Blinkova,WTA,20250131-W-Linz-QF-Clara_Tauson-Anna_Blinkova.html
+2025-01-30,Linz,R16,Karolina,Muchova,Sara Sorribes,Tormo,WTA,20250130-W-Linz-R16-Karolina_Muchova-Sara_Sorribes_Tormo.html
+2025-01-29,Linz,R32,Elina,Avanesyan,Katerina,Siniakova,WTA,20250129-W-Linz-R32-Elina_Avanesyan-Katerina_Siniakova.html
+2025-01-29,Linz,R16,Sorana,Cirstea,Clara,Tauson,WTA,20250129-W-Linz-R16-Sorana_Cirstea-Clara_Tauson.html
+2025-01-28,Linz,R32,Clara,Tauson,Anhelina,Kalinina,WTA,20250128-W-Linz-R32-Clara_Tauson-Anhelina_Kalinina.html
+2025-02-02,Singapore,F,Ann,Li,Elise,Mertens,WTA,20250202-W-Singapore-F-Ann_Li-Elise_Mertens.html
+2025-02-02,Montpellier,F,Aleksandar,Kovacevic,Felix Auger,Aliassime,ATP,20250202-M-Montpellier-F-Aleksandar_Kovacevic-Felix_Auger_Aliassime.html
+2025-02-01,Montpellier,SF,Jesper De,Jong,Felix Auger,Aliassime,ATP,20250201-M-Montpellier-SF-Jesper_De_Jong-Felix_Auger_Aliassime.html
+2025-02-01,Montpellier,SF,Aleksandar,Kovacevic,Andrey,Rublev,ATP,20250201-M-Montpellier-SF-Aleksandar_Kovacevic-Andrey_Rublev.html
+2025-01-31,Montpellier,QF,Nikoloz,Basilashvili,Andrey,Rublev,ATP,20250131-M-Montpellier-QF-Nikoloz_Basilashvili-Andrey_Rublev.html
+2025-01-31,Montpellier,QF,Jesper De,Jong,Tallon,Griekspoor,ATP,20250131-M-Montpellier-QF-Jesper_De_Jong-Tallon_Griekspoor.html
+2025-01-30,Montpellier,R16,Tallon,Griekspoor,Richard,Gasquet,ATP,20250130-M-Montpellier-R16-Tallon_Griekspoor-Richard_Gasquet.html
+2025-01-30,Montpellier,R16,Jesper De,Jong,Flavio,Cobolli,ATP,20250130-M-Montpellier-R16-Jesper_De_Jong-Flavio_Cobolli.html
+2025-01-29,Montpellier,R16,Christopher,Eubanks,Andrey,Rublev,ATP,20250129-M-Montpellier-R16-Christopher_Eubanks-Andrey_Rublev.html
+2025-01-28,Montpellier,R32,Tallon,Griekspoor,Botic Van De,Zandschulp,ATP,20250128-M-Montpellier-R32-Tallon_Griekspoor-Botic_Van_De_Zandschulp.html
+2025-01-28,Montpellier,R32,Richard,Gasquet,Adrian,Mannarino,ATP,20250128-M-Montpellier-R32-Richard_Gasquet-Adrian_Mannarino.html
+2025-02-01,Davis Cup Qualifiers,RR,Ugo,Humbert,Joao,Fonseca,ATP,20250201-M-Davis_Cup_Qualifiers-RR-Ugo_Humbert-Joao_Fonseca.html
+2025-01-26,Australian Open,F,Jannik,Sinner,Alexander,Zverev,ATP,20250126-M-Australian_Open-F-Jannik_Sinner-Alexander_Zverev.html
+2025-01-25,Australian Open,F,Aryna,Sabalenka,Madison,Keys,WTA,20250125-W-Australian_Open-F-Aryna_Sabalenka-Madison_Keys.html
+2025-01-24,Australian Open,SF,Novak,Djokovic,Alexander,Zverev,ATP,20250124-M-Australian_Open-SF-Novak_Djokovic-Alexander_Zverev.html
+2025-01-24,Australian Open,SF,Jannik,Sinner,Ben,Shelton,ATP,20250124-M-Australian_Open-SF-Jannik_Sinner-Ben_Shelton.html
+2025-01-23,Australian Open,SF,Paula,Badosa,Aryna,Sabalenka,WTA,20250123-W-Australian_Open-SF-Paula_Badosa-Aryna_Sabalenka.html
+2025-01-23,Australian Open,SF,Iga,Swiatek,Madison,Keys,WTA,20250123-W-Australian_Open-SF-Iga_Swiatek-Madison_Keys.html
+2025-01-22,Australian Open,QF,Emma,Navarro,Iga,Swiatek,WTA,20250122-W-Australian_Open-QF-Emma_Navarro-Iga_Swiatek.html
+2025-01-22,Australian Open,QF,Elina,Svitolina,Madison,Keys,WTA,20250122-W-Australian_Open-QF-Elina_Svitolina-Madison_Keys.html
+2025-01-22,Australian Open,QF,Jannik,Sinner,Alex De,Minaur,ATP,20250122-M-Australian_Open-QF-Jannik_Sinner-Alex_De_Minaur.html
+2025-01-21,Australian Open,QF,Coco,Gauff,Paula,Badosa,WTA,20250121-W-Australian_Open-QF-Coco_Gauff-Paula_Badosa.html
+2025-01-21,Australian Open,QF,Aryna,Sabalenka,Anastasia,Pavlyuchenkova,WTA,20250121-W-Australian_Open-QF-Aryna_Sabalenka-Anastasia_Pavlyuchenkova.html
+2025-01-21,Australian Open,QF,Novak,Djokovic,Carlos,Alcaraz,ATP,20250121-M-Australian_Open-QF-Novak_Djokovic-Carlos_Alcaraz.html
+2025-01-21,Australian Open,QF,Alexander,Zverev,Tommy,Paul,ATP,20250121-M-Australian_Open-QF-Alexander_Zverev-Tommy_Paul.html
+2025-01-20,Australian Open,R16,Iga,Swiatek,Eva,Lys,WTA,20250120-W-Australian_Open-R16-Iga_Swiatek-Eva_Lys.html
+2025-01-20,Australian Open,R16,Emma,Navarro,Daria,Kasatkina,WTA,20250120-W-Australian_Open-R16-Emma_Navarro-Daria_Kasatkina.html
+2025-01-20,Australian Open,R16,Elina,Svitolina,Veronika,Kudermetova,WTA,20250120-W-Australian_Open-R16-Elina_Svitolina-Veronika_Kudermetova.html
+2025-01-20,Australian Open,R16,Elena,Rybakina,Madison,Keys,WTA,20250120-W-Australian_Open-R16-Elena_Rybakina-Madison_Keys.html
+2025-01-20,Australian Open,R16,Jannik,Sinner,Holger,Rune,ATP,20250120-M-Australian_Open-R16-Jannik_Sinner-Holger_Rune.html
+2025-01-20,Australian Open,R16,Ben,Shelton,Gael,Monfils,ATP,20250120-M-Australian_Open-R16-Ben_Shelton-Gael_Monfils.html
+2025-01-19,Australian Open,R16,Coco,Gauff,Belinda,Bencic,WTA,20250119-W-Australian_Open-R16-Coco_Gauff-Belinda_Bencic.html
+2025-01-19,Australian Open,R16,Ugo,Humbert,Alexander,Zverev,ATP,20250119-M-Australian_Open-R16-Ugo_Humbert-Alexander_Zverev.html
+2025-01-19,Australian Open,R16,Novak,Djokovic,Jiri,Lehecka,ATP,20250119-M-Australian_Open-R16-Novak_Djokovic-Jiri_Lehecka.html
+2025-01-18,Australian Open,R32,Yulia,Putintseva,Daria,Kasatkina,WTA,20250118-W-Australian_Open-R32-Yulia_Putintseva-Daria_Kasatkina.html
+2025-01-18,Australian Open,R32,Jasmine,Paolini,Elina,Svitolina,WTA,20250118-W-Australian_Open-R32-Jasmine_Paolini-Elina_Svitolina.html
+2025-01-18,Australian Open,R32,Iga,Swiatek,Emma,Raducanu,WTA,20250118-W-Australian_Open-R32-Iga_Swiatek-Emma_Raducanu.html
+2025-01-18,Australian Open,R32,Eva,Lys,Jaqueline,Cristian,WTA,20250118-W-Australian_Open-R32-Eva_Lys-Jaqueline_Cristian.html
+2025-01-18,Australian Open,R32,Danielle,Collins,Madison,Keys,WTA,20250118-W-Australian_Open-R32-Danielle_Collins-Madison_Keys.html
+2025-01-18,Australian Open,R16,Paula,Badosa,Olga,Danilovic,WTA,20250118-W-Australian_Open-R16-Paula_Badosa-Olga_Danilovic.html
+2025-01-18,Australian Open,R32,Taylor,Fritz,Gael,Monfils,ATP,20250118-M-Australian_Open-R32-Taylor_Fritz-Gael_Monfils.html
+2025-01-18,Australian Open,R32,Miomir,Kecmanovic,Holger,Rune,ATP,20250118-M-Australian_Open-R32-Miomir_Kecmanovic-Holger_Rune.html
+2025-01-18,Australian Open,R32,Jannik,Sinner,Marcos,Giron,ATP,20250118-M-Australian_Open-R32-Jannik_Sinner-Marcos_Giron.html
+2025-01-18,Australian Open,R32,Ben,Shelton,Lorenzo,Musetti,ATP,20250118-M-Australian_Open-R32-Ben_Shelton-Lorenzo_Musetti.html
+2025-01-18,Australian Open,R32,Alex,Michelsen,Karen,Khachanov,ATP,20250118-M-Australian_Open-R32-Alex_Michelsen-Karen_Khachanov.html
+2025-01-17,Australian Open,R32,Paula,Badosa,Marta,Kostyuk,WTA,20250117-W-Australian_Open-R32-Paula_Badosa-Marta_Kostyuk.html
+2025-01-17,Australian Open,R32,Leylah,Fernandez,Coco,Gauff,WTA,20250117-W-Australian_Open-R32-Leylah_Fernandez-Coco_Gauff.html
+2025-01-17,Australian Open,R32,Jessica,Pegula,Olga,Danilovic,WTA,20250117-W-Australian_Open-R32-Jessica_Pegula-Olga_Danilovic.html
+2025-01-17,Australian Open,R32,Diana,Shnaider,Donna,Vekic,WTA,20250117-W-Australian_Open-R32-Diana_Shnaider-Donna_Vekic.html
+2025-01-17,Australian Open,R32,Nuno,Borges,Carlos,Alcaraz,ATP,20250117-M-Australian_Open-R32-Nuno_Borges-Carlos_Alcaraz.html
+2025-01-17,Australian Open,R32,Novak,Djokovic,Tomas,Machac,ATP,20250117-M-Australian_Open-R32-Novak_Djokovic-Tomas_Machac.html
+2025-01-16,Australian Open,R64,Iga,Swiatek,Rebecca,Sramkova,WTA,20250116-W-Australian_Open-R64-Iga_Swiatek-Rebecca_Sramkova.html
+2025-01-16,Australian Open,R64,Elena Gabriela,Ruse,Madison,Keys,WTA,20250116-W-Australian_Open-R64-Elena_Gabriela_Ruse-Madison_Keys.html
+2025-01-16,Australian Open,R64,Daria,Kasatkina,Yafan,Wang,WTA,20250116-W-Australian_Open-R64-Daria_Kasatkina-Yafan_Wang.html
+2025-01-16,Australian Open,R32,Aryna,Sabalenka,Clara,Tauson,WTA,20250116-W-Australian_Open-R32-Aryna_Sabalenka-Clara_Tauson.html
+2025-01-16,Australian Open,R64,Tristan,Schoolkate,Jannik,Sinner,ATP,20250116-M-Australian_Open-R64-Tristan_Schoolkate-Jannik_Sinner.html
+2025-01-16,Australian Open,R64,Taylor,Fritz,Cristian,Garin,ATP,20250116-M-Australian_Open-R64-Taylor_Fritz-Cristian_Garin.html
+2025-01-16,Australian Open,R64,Lorenzo,Sonego,Joao,Fonseca,ATP,20250116-M-Australian_Open-R64-Lorenzo_Sonego-Joao_Fonseca.html
+2025-01-16,Australian Open,R64,Learner,Tien,Daniil,Medvedev,ATP,20250116-M-Australian_Open-R64-Learner_Tien-Daniil_Medvedev.html
+2025-01-16,Australian Open,R64,Hubert,Hurkacz,Miomir,Kecmanovic,ATP,20250116-M-Australian_Open-R64-Hubert_Hurkacz-Miomir_Kecmanovic.html
+2025-01-15,Australian Open,R64,Qinwen,Zheng,Laura,Siegemund,WTA,20250115-W-Australian_Open-R64-Qinwen_Zheng-Laura_Siegemund.html
+2025-01-15,Australian Open,R64,Paula,Badosa,Talia,Gibson,WTA,20250115-W-Australian_Open-R64-Paula_Badosa-Talia_Gibson.html
+2025-01-15,Australian Open,R64,Moyuka,Uchijima,Mirra,Andreeva,WTA,20250115-W-Australian_Open-R64-Moyuka_Uchijima-Mirra_Andreeva.html
+2025-01-15,Australian Open,R64,Karolina,Muchova,Naomi,Osaka,WTA,20250115-W-Australian_Open-R64-Karolina_Muchova-Naomi_Osaka.html
+2025-01-15,Australian Open,R64,Coco,Gauff,Jodie,Burrage,WTA,20250115-W-Australian_Open-R64-Coco_Gauff-Jodie_Burrage.html
+2025-01-15,Australian Open,R64,Aryna,Sabalenka,Jessica Bouzas,Maneiro,WTA,20250115-W-Australian_Open-R64-Aryna_Sabalenka-Jessica_Bouzas_Maneiro.html
+2025-01-15,Australian Open,R64,Casper,Ruud,Jakub,Mensik,ATP,20250115-M-Australian_Open-R64-Casper_Ruud-Jakub_Mensik.html
+2025-01-15,Australian Open,R64,Carlos,Alcaraz,Yoshihito,Nishioka,ATP,20250115-M-Australian_Open-R64-Carlos_Alcaraz-Yoshihito_Nishioka.html
+2025-01-15,Australian Open,R64,Arthur,Cazaux,Jacob,Fearnley,ATP,20250115-M-Australian_Open-R64-Arthur_Cazaux-Jacob_Fearnley.html
+2025-01-15,Australian Open,R64,Alexander,Zverev,Pedro,Martinez,ATP,20250115-M-Australian_Open-R64-Alexander_Zverev-Pedro_Martinez.html
+2025-01-14,Australian Open,R64,Liudmila,Samsonova,Olga,Danilovic,WTA,20250114-W-Australian_Open-R64-Liudmila_Samsonova-Olga_Danilovic.html
+2025-01-14,Australian Open,R128,Sijia,Wei,Jasmine,Paolini,WTA,20250114-W-Australian_Open-R128-Sijia_Wei-Jasmine_Paolini.html
+2025-01-14,Australian Open,R128,Olivia,Gadecki,Veronika,Kudermetova,WTA,20250114-W-Australian_Open-R128-Olivia_Gadecki-Veronika_Kudermetova.html
+2025-01-14,Australian Open,R128,Eva,Lys,Kimberly,Birrell,WTA,20250114-W-Australian_Open-R128-Eva_Lys-Kimberly_Birrell.html
+2025-01-14,Australian Open,R128,Emma,Raducanu,Ekaterina,Alexandrova,WTA,20250114-W-Australian_Open-R128-Emma_Raducanu-Ekaterina_Alexandrova.html
+2025-01-14,Australian Open,R128,Elena,Rybakina,Emerson,Jones,WTA,20250114-W-Australian_Open-R128-Elena_Rybakina-Emerson_Jones.html
+2025-01-14,Australian Open,R128,Taylor,Fritz,Jenson,Brooksby,ATP,20250114-M-Australian_Open-R128-Taylor_Fritz-Jenson_Brooksby.html
+2025-01-14,Australian Open,R128,Matteo,Arnaldi,Lorenzo,Musetti,ATP,20250114-M-Australian_Open-R128-Matteo_Arnaldi-Lorenzo_Musetti.html
+2025-01-14,Australian Open,R128,Kasidit,Samrej,Daniil,Medvedev,ATP,20250114-M-Australian_Open-R128-Kasidit_Samrej-Daniil_Medvedev.html
+2025-01-14,Australian Open,R128,Hubert,Hurkacz,Tallon,Griekspoor,ATP,20250114-M-Australian_Open-R128-Hubert_Hurkacz-Tallon_Griekspoor.html
+2025-01-14,Australian Open,R128,Bu,Yunchaokete,Hady,Habib,ATP,20250114-M-Australian_Open-R128-Bu_Yunchaokete-Hady_Habib.html
+2025-01-14,Australian Open,R128,Andrey,Rublev,Joao,Fonseca,ATP,20250114-M-Australian_Open-R128-Andrey_Rublev-Joao_Fonseca.html
+2025-01-14,Australian Open,R128,Alex De,Minaur,Botic Van De,Zandschulp,ATP,20250114-M-Australian_Open-R128-Alex_De_Minaur-Botic_Van_De_Zandschulp.html
+2025-01-13,Australian Open,R128,Viktoriya,Tomova,Daria,Kasatkina,WTA,20250113-W-Australian_Open-R128-Viktoriya_Tomova-Daria_Kasatkina.html
+2025-01-13,Australian Open,R128,Maya,Joint,Jessica,Pegula,WTA,20250113-W-Australian_Open-R128-Maya_Joint-Jessica_Pegula.html
+2025-01-13,Australian Open,R128,Marta,Kostyuk,Nao,Hibino,WTA,20250113-W-Australian_Open-R128-Marta_Kostyuk-Nao_Hibino.html
+2025-01-13,Australian Open,R128,Iga,Swiatek,Katerina,Siniakova,WTA,20250113-W-Australian_Open-R128-Iga_Swiatek-Katerina_Siniakova.html
+2025-01-13,Australian Open,R128,Coco,Gauff,Sofia,Kenin,WTA,20250113-W-Australian_Open-R128-Coco_Gauff-Sofia_Kenin.html
+2025-01-13,Australian Open,R128,Novak,Djokovic,Nishesh,Basavareddy,ATP,20250113-M-Australian_Open-R128-Novak_Djokovic-Nishesh_Basavareddy.html
+2025-01-13,Australian Open,R128,Jannik,Sinner,Nicolas,Jarry,ATP,20250113-M-Australian_Open-R128-Jannik_Sinner-Nicolas_Jarry.html
+2025-01-13,Australian Open,R128,Christopher,Oconnell,Tommy,Paul,ATP,20250113-M-Australian_Open-R128-Christopher_Oconnell-Tommy_Paul.html
+2025-01-13,Australian Open,R128,Alexander,Shevchenko,Carlos,Alcaraz,ATP,20250113-M-Australian_Open-R128-Alexander_Shevchenko-Carlos_Alcaraz.html
+2025-01-13,Australian Open,R128,Alex,Michelsen,Stefanos,Tsitsipas,ATP,20250113-M-Australian_Open-R128-Alex_Michelsen-Stefanos_Tsitsipas.html
+2025-01-12,Australian Open,R128,Suzan,Lamens,Veronika,Erjavec,WTA,20250112-W-Australian_Open-R128-Suzan_Lamens-Veronika_Erjavec.html
+2025-01-12,Australian Open,R128,Sonay,Kartal,Jessica Bouzas,Maneiro,WTA,20250112-W-Australian_Open-R128-Sonay_Kartal-Jessica_Bouzas_Maneiro.html
+2025-01-12,Australian Open,R128,Anca Alexia,Todoni,Qinwen,Zheng,WTA,20250112-W-Australian_Open-R128-Anca_Alexia_Todoni-Qinwen_Zheng.html
+2025-01-12,Australian Open,R128,Otto,Virtanen,Arthur,Fils,ATP,20250112-M-Australian_Open-R128-Otto_Virtanen-Arthur_Fils.html
+2025-01-12,Australian Open,R128,Kei,Nishikori,Thiago,Monteiro,ATP,20250112-M-Australian_Open-R128-Kei_Nishikori-Thiago_Monteiro.html
+2025-01-12,Australian Open,R128,Casper,Ruud,Jaume,Munar,ATP,20250112-M-Australian_Open-R128-Casper_Ruud-Jaume_Munar.html
+2025-01-11,Australian Open,R128,Marie,Bouzkova,Mirra,Andreeva,WTA,20250111-W-Australian_Open-R128-Marie_Bouzkova-Mirra_Andreeva.html
+2025-01-09,Australian Open,Q3,Polina,Kudermetova,Elena,Micic,WTA,20250109-W-Australian_Open-Q3-Polina_Kudermetova-Elena_Micic.html
+2025-01-08,Australian Open,Q2,Khumoyun,Sultanov,Dalibor,Svrcina,ATP,20250108-M-Australian_Open-Q2-Khumoyun_Sultanov-Dalibor_Svrcina.html
+2025-01-06,Australian Open,Q1,Alice,Tubello,Maria,Timofeeva,WTA,20250106-W-Australian_Open-Q1-Alice_Tubello-Maria_Timofeeva.html
+2025-01-06,Australian Open,Q1,Elmer,Moller,Lukas,Neumayer,ATP,20250106-M-Australian_Open-Q1-Elmer_Moller-Lukas_Neumayer.html
+2025-01-25,Oeiras 3 CH,R32,Clement,Chidekh,Adrian,Andreev,ATP,20250125-M-Oeiras_3_CH-R32-Clement_Chidekh-Adrian_Andreev.html
+2025-01-24,Australian Open Juniors,F,Kristina,Penickova,Wakana,Sonobe,WTA,20250124-W-Australian_Open_Juniors-F-Kristina_Penickova-Wakana_Sonobe.html
+2025-01-24,Australian Open Juniors,F,Benjamin,Willwerth,Henry,Bernet,ATP,20250124-M-Australian_Open_Juniors-F-Benjamin_Willwerth-Henry_Bernet.html
+2025-01-14,Buenos Aires CH,R32,Juan Pablo,Varillas,Juan Carlos Prado,Angelo,ATP,20250114-M-Buenos_Aires_CH-R32-Juan_Pablo_Varillas-Juan_Carlos_Prado_Angelo.html
+2025-01-11,Adelaide,F,Jessica,Pegula,Madison,Keys,WTA,20250111-W-Adelaide-F-Jessica_Pegula-Madison_Keys.html
+2025-01-11,Adelaide,F,Felix Auger,Aliassime,Sebastian,Korda,ATP,20250111-M-Adelaide-F-Felix_Auger_Aliassime-Sebastian_Korda.html
+2025-01-08,Adelaide,R16,Emerson,Jones,Daria,Kasatkina,WTA,20250108-W-Adelaide-R16-Emerson_Jones-Daria_Kasatkina.html
+2025-01-06,Adelaide,R32,Olivia,Gadecki,Daria,Kasatkina,WTA,20250106-W-Adelaide-R32-Olivia_Gadecki-Daria_Kasatkina.html
+2025-01-06,Adelaide,R32,Denis,Shapovalov,Zhizhen,Zhang,ATP,20250106-M-Adelaide-R32-Denis_Shapovalov-Zhizhen_Zhang.html
+2025-01-11,Auckland,F,Gael,Monfils,Zizou,Bergs,ATP,20250111-M-Auckland-F-Gael_Monfils-Zizou_Bergs.html
+2025-01-10,Auckland,SF,Gael,Monfils,Nishesh,Basavareddy,ATP,20250110-M-Auckland-SF-Gael_Monfils-Nishesh_Basavareddy.html
+2025-01-09,Auckland,QF,Facundo Diaz,Acosta,Gael,Monfils,ATP,20250109-M-Auckland-QF-Facundo_Diaz_Acosta-Gael_Monfils.html
+2025-01-08,Auckland,R16,Gael,Monfils,Jan Lennard,Struff,ATP,20250108-M-Auckland-R16-Gael_Monfils-Jan_Lennard_Struff.html
+2025-01-08,Auckland,R16,Alejandro,Tabilo,Nishesh,Basavareddy,ATP,20250108-M-Auckland-R16-Alejandro_Tabilo-Nishesh_Basavareddy.html
+2025-01-05,Auckland,F,Clara,Tauson,Naomi,Osaka,WTA,20250105-W-Auckland-F-Clara_Tauson-Naomi_Osaka.html
+2025-01-04,Auckland,SF,Clara,Tauson,Robin,Montgomery,WTA,20250104-W-Auckland-SF-Clara_Tauson-Robin_Montgomery.html
+2025-01-03,Auckland,QF,Madison,Keys,Clara,Tauson,WTA,20250103-W-Auckland-QF-Madison_Keys-Clara_Tauson.html
+2025-01-03,Auckland,QF,Bernarda,Pera,Robin,Montgomery,WTA,20250103-W-Auckland-QF-Bernarda_Pera-Robin_Montgomery.html
+2025-01-02,Auckland,R16,Nao,Hibino,Robin,Montgomery,WTA,20250102-W-Auckland-R16-Nao_Hibino-Robin_Montgomery.html
+2025-01-02,Auckland,R16,Greet,Minnen,Alycia,Parks,WTA,20250102-W-Auckland-R16-Greet_Minnen-Alycia_Parks.html
+2025-01-01,Auckland,R16,Ann,Li,Katie,Volynets,WTA,20250101-W-Auckland-R16-Ann_Li-Katie_Volynets.html
+2025-01-11,Hobart,F,Elise,Mertens,Mccartney,Kessler,WTA,20250111-W-Hobart-F-Elise_Mertens-Mccartney_Kessler.html
+2025-01-10,Hobart,SF,Maya,Joint,Elise,Mertens,WTA,20250110-W-Hobart-SF-Maya_Joint-Elise_Mertens.html
+2025-01-10,Hobart,SF,Elina,Avanesyan,Mccartney,Kessler,WTA,20250110-W-Hobart-SF-Elina_Avanesyan-Mccartney_Kessler.html
+2025-01-07,Hobart,R32,Olga,Danilovic,Maya,Joint,WTA,20250107-W-Hobart-R32-Olga_Danilovic-Maya_Joint.html
+2025-01-06,Oeiras 1 CH,R32,Karue,Sell,Robin,Bertrand,ATP,20250106-M-Oeiras_1_CH-R32-Karue_Sell-Robin_Bertrand.html
+2025-01-05,Hong Kong,F,Alexandre,Muller,Kei,Nishikori,ATP,20250105-M-Hong_Kong-F-Alexandre_Muller-Kei_Nishikori.html
+2025-01-03,Hong Kong,QF,Jaume,Munar,Lorenzo,Musetti,ATP,20250103-M-Hong_Kong-QF-Jaume_Munar-Lorenzo_Musetti.html
+2025-01-02,Hong Kong,R16,Gabriel,Diallo,Lorenzo,Musetti,ATP,20250102-M-Hong_Kong-R16-Gabriel_Diallo-Lorenzo_Musetti.html
+2025-01-02,Hong Kong,R16,Andrey,Rublev,Fabian,Marozsan,ATP,20250102-M-Hong_Kong-R16-Andrey_Rublev-Fabian_Marozsan.html
+2025-01-01,Hong Kong,R16,Arthur,Fils,Zizou,Bergs,ATP,20250101-M-Hong_Kong-R16-Arthur_Fils-Zizou_Bergs.html
+2025-01-05,United Cup,F,Coco,Gauff,Iga,Swiatek,WTA,20250105-W-United_Cup-F-Coco_Gauff-Iga_Swiatek.html
+2025-01-05,United Cup,F,Hubert,Hurkacz,Taylor,Fritz,ATP,20250105-M-United_Cup-F-Hubert_Hurkacz-Taylor_Fritz.html
+2025-01-04,United Cup,SF,Iga,Swiatek,Elena,Rybakina,WTA,20250104-W-United_Cup-SF-Iga_Swiatek-Elena_Rybakina.html
+2025-01-04,United Cup,SF,Coco,Gauff,Karolina,Muchova,WTA,20250104-W-United_Cup-SF-Coco_Gauff-Karolina_Muchova.html
+2025-01-04,United Cup,SF,Hubert,Hurkacz,Alexander,Shevchenko,ATP,20250104-M-United_Cup-SF-Hubert_Hurkacz-Alexander_Shevchenko.html
+2025-01-03,United Cup,QF,Jasmine,Paolini,Karolina,Muchova,WTA,20250103-W-United_Cup-QF-Jasmine_Paolini-Karolina_Muchova.html
+2025-01-03,United Cup,QF,Tomas,Machac,Flavio,Cobolli,ATP,20250103-M-United_Cup-QF-Tomas_Machac-Flavio_Cobolli.html
+2025-01-02,United Cup,QF,Iga,Swiatek,Katie,Boulter,WTA,20250102-W-United_Cup-QF-Iga_Swiatek-Katie_Boulter.html
+2025-01-02,United Cup,QF,Hubert,Hurkacz,Billy,Harris,ATP,20250102-M-United_Cup-QF-Hubert_Hurkacz-Billy_Harris.html
+2025-01-01,United Cup,RR,Olivia,Gadecki,Katie,Boulter,WTA,20250101-W-United_Cup-RR-Olivia_Gadecki-Katie_Boulter.html
+2025-01-01,United Cup,RR,Iga,Swiatek,Karolina,Muchova,WTA,20250101-W-United_Cup-RR-Iga_Swiatek-Karolina_Muchova.html
+2025-01-01,United Cup,RR,Hubert,Hurkacz,Tomas,Machac,ATP,20250101-M-United_Cup-RR-Hubert_Hurkacz-Tomas_Machac.html
+2025-01-05,Brisbane,F,Polina,Kudermetova,Aryna,Sabalenka,WTA,20250105-W-Brisbane-F-Polina_Kudermetova-Aryna_Sabalenka.html
+2025-01-05,Brisbane,F,Jiri,Lehecka,Reilly,Opelka,ATP,20250105-M-Brisbane-F-Jiri_Lehecka-Reilly_Opelka.html
+2025-01-04,Brisbane,SF,Aryna,Sabalenka,Mirra,Andreeva,WTA,20250104-W-Brisbane-SF-Aryna_Sabalenka-Mirra_Andreeva.html
+2025-01-04,Brisbane,SF,Reilly,Opelka,Giovanni Mpetshi,Perricard,ATP,20250104-M-Brisbane-SF-Reilly_Opelka-Giovanni_Mpetshi_Perricard.html
+2025-01-03,Brisbane,QF,Polina,Kudermetova,Ashlyn,Krueger,WTA,20250103-W-Brisbane-QF-Polina_Kudermetova-Ashlyn_Krueger.html
+2025-01-03,Brisbane,QF,Novak,Djokovic,Reilly,Opelka,ATP,20250103-M-Brisbane-QF-Novak_Djokovic-Reilly_Opelka.html
+2025-01-03,Brisbane,QF,Nicolas,Jarry,Jiri,Lehecka,ATP,20250103-M-Brisbane-QF-Nicolas_Jarry-Jiri_Lehecka.html
+2025-01-03,Brisbane,QF,Giovanni Mpetshi,Perricard,Jakub,Mensik,ATP,20250103-M-Brisbane-QF-Giovanni_Mpetshi_Perricard-Jakub_Mensik.html
+2025-01-02,Brisbane,R16,Mirra,Andreeva,Linda,Noskova,WTA,20250102-W-Brisbane-R16-Mirra_Andreeva-Linda_Noskova.html
+2025-01-02,Brisbane,R16,Novak,Djokovic,Gael,Monfils,ATP,20250102-M-Brisbane-R16-Novak_Djokovic-Gael_Monfils.html
+2025-01-02,Brisbane,R16,Giovanni Mpetshi,Perricard,Frances,Tiafoe,ATP,20250102-M-Brisbane-R16-Giovanni_Mpetshi_Perricard-Frances_Tiafoe.html
+2025-01-01,Brisbane,R32,Linda,Noskova,Anca Alexia,Todoni,WTA,20250101-W-Brisbane-R32-Linda_Noskova-Anca_Alexia_Todoni.html
+2025-01-04,Canberra CH,F,Ethan,Quinn,Joao,Fonseca,ATP,20250104-M-Canberra_CH-F-Ethan_Quinn-Joao_Fonseca.html

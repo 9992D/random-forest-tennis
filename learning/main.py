@@ -59,10 +59,9 @@ xgb_model.fit(data_np_train[:, :-1], reverse_mapper(y_pred_train))
 predictions_train = xgb_model.predict(data_np_train[:, :-1])
 predictions_test = xgb_model.predict(data_np_test[:, :-1])
 
-print("Train Accuracy: ", accuracy_score(reverse_mapper(y_pred_train), predictions_train))
-print("Test Accuracy: ", accuracy_score(reverse_mapper(y_pred_test), predictions_test))
+#print("Train Accuracy: ", accuracy_score(reverse_mapper(y_pred_train), predictions_train))
+#print("Test Accuracy: ", accuracy_score(reverse_mapper(y_pred_test), predictions_test))
 
-"""
 next_data = pd.read_csv("learning/next.csv")
 
 X_next = next_data.iloc[:, 2:].to_numpy(dtype=object)
@@ -72,4 +71,3 @@ predictions_next = xgb_model.predict(X_next)
 prediction_labels = np.where(predictions_next == 0, "Player 2 Wins", "Player 1 Wins")
 
 print(prediction_labels)
-"""

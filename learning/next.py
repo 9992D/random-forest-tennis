@@ -9,7 +9,7 @@ def add_matches(player1_id, player2_id, atp_point_diff, atp_rank_diff, best_of, 
     conn.row_factory = sqlite3.Row
     cursor = conn.cursor()
     
-    cursor.execute("SELECT * FROM players_stats WHERE player_id IN (?, ?)", (player1_id, player2_id))
+    cursor.execute("SELECT * FROM 'players(w)_stats' WHERE player_id IN (?, ?)", (player1_id, player2_id))
     rows = cursor.fetchall()
     if len(rows) != 2:
         print("Données insuffisantes pour les deux joueurs")

@@ -5,3 +5,5 @@ datetime
 tqdm
 xgboost
 scikit-learn
+requests
+bs4

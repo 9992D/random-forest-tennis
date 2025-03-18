@@ -60,7 +60,7 @@ def create_players_table(csv_file, db_file):
     )
     ''')
 
-    df.to_sql('players(w)_informations', conn, if_exists='append', index=False)
+    df.to_sql('players(w)_informations', conn, if_exists='replace', index=False)
 
     conn.commit()
     conn.close()
